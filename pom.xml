@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>materializecss</artifactId>
-    <version>0.95.4-SNAPSHOT</version>
+    <version>0.96.0</version>
     <name>Materialize</name>
     <description>WebJar for Materialize</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>0.95.3</upstream.version>
+        <upstream.version>0.96.0</upstream.version>
         <upstream.url>http://materializecss.com/bin/materialize-v${upstream.version}.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
         <requirejs>
