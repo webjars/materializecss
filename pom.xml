@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>materializecss</artifactId>
-    <version>1.0.1-rc.1-SNAPSHOT</version>
+    <version>1.0.0-rc.2-SNAPSHOT</version>
     <name>Materialize</name>
     <description>WebJar for Materialize</description>
     <url>http://webjars.org</url>
